@@ -69,7 +69,7 @@ const HowToBook = () => {
               <div className="info-section">
                 <h3>Rental Terms & Conditions</h3>
                 <ul>
-                  <li>Minimum age: 21 years</li>
+                  <li>Minimum age: 18 years</li>
                   <li>Valid license</li>
                   <li>Security deposit required</li>
                 </ul>
@@ -86,9 +86,9 @@ const HowToBook = () => {
                 <h3>Support Contact</h3>
                 <p>
                   For any queries, contact us at:<br />
-                  Phone: +1 234 567 890<br />
-                  WhatsApp: +1 234 567 890<br />
-                  Email: info@carrental.com
+                  Phone: +918908870213<br />
+                  WhatsApp: +918908870213<br />
+                  Email: helpdesk@waahdrive.in
                 </p>
               </div>
             </div>

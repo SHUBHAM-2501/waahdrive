@@ -20,8 +20,16 @@
 }
 
 .navbar-brand {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.car-icon {
+  width: 1.5rem;
+  height: 1.5rem;
 }
 
 .navbar-links {
@@ -77,6 +85,19 @@
 
 .contact-link.phone:hover {
   color: #b91c1c;
+}
+
+/* Mobile styles for contact bar */
+@media (max-width: 767px) {
+  .contact-bar .container {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  .contact-link {
+    font-size: 0.75rem;
+  }
 }
 
 /* Car Cards */

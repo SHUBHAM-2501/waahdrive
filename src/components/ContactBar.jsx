@@ -6,23 +6,23 @@ const ContactBar = () => {
     <div className="contact-bar">
       <div className="container">
         <a
-          href="https://wa.me/1234567890"
+          href="https://wa.me/918908870213"
           className="contact-link whatsapp"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaWhatsapp />
-          <span>WhatsApp: +916370182716</span>
+          <span>WhatsApp: +918908870213</span>
         </a>
         <a
-          href="mailto:info@carrental.com"
+          href="mailto:email.waahdrive.in"
           className="contact-link"
         >
           <FaEnvelope />
-          <span>Email: info@carrental.com</span>
+          <span>Email: email.waahdrive.in</span>
         </a>
         <a
-          href="tel:+1234567890"
+          href="tel:+918908870213"
           className="contact-link phone"
         >
           <FaPhone />
