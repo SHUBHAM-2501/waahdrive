@@ -10,8 +10,8 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
       phone: "+918908870213",
-      whatsapp: "+918980870213",
-      email: "info@carrental.com"
+      whatsapp: "+918908870213",
+      email: "helpdesk@waahdrive.in"
     }
   },
   {
@@ -25,8 +25,8 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
        phone: "+918908870213",
-      whatsapp: "+918980870213",
-      email: "info@carrental.com"
+      whatsapp: "+918908870213",
+      email: "helpdesk@waahdrive.in"
     }
   },
   {
@@ -40,8 +40,8 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
        phone: "+918908870213",
-      whatsapp: "+918980870213",
-      email: "info@carrental.com"
+      whatsapp: "+918908870213",
+      email: "helpdesk@waahdrive.in"
     }
   },
   {
@@ -55,8 +55,8 @@ export const cars = [
     fuelType: "Diesel",
     contactLinks: {
       phone: "+918908870213",
-      whatsapp: "+918980870213",
-      email: "info@carrental.com"
+      whatsapp: "+918908870213",
+      email: "helpdesk@waahdrive.in"
     }
   },
   {
@@ -70,8 +70,8 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
        phone: "+918908870213",
-      whatsapp: "+918980870213",
-      email: "info@carrental.com"
+      whatsapp: "+918908870213",
+      email: "helpdesk@waahdrive.in"
     }
   },
   {
@@ -85,8 +85,8 @@ export const cars = [
     fuelType: "Diesel",
     contactLinks: {
       phone: "+918908870213",
-      whatsapp: "+918980870213",
-      email: "info@carrental.com"
+      whatsapp: "+918908870213",
+      email: "helpdesk@waahdrive.in"
     }
   }
 ];
