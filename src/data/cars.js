@@ -10,7 +10,7 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
       phone: "+918908870213",
-      whatsapp: "+916370182716",
+      whatsapp: "+918980870213",
       email: "info@carrental.com"
     }
   },
@@ -25,7 +25,7 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
        phone: "+918908870213",
-      whatsapp: "+916370182716",
+      whatsapp: "+918980870213",
       email: "info@carrental.com"
     }
   },
@@ -40,7 +40,7 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
        phone: "+918908870213",
-      whatsapp: "+916370182716",
+      whatsapp: "+918980870213",
       email: "info@carrental.com"
     }
   },
@@ -55,7 +55,7 @@ export const cars = [
     fuelType: "Diesel",
     contactLinks: {
       phone: "+918908870213",
-      whatsapp: "+916370182716",
+      whatsapp: "+918980870213",
       email: "info@carrental.com"
     }
   },
@@ -70,7 +70,7 @@ export const cars = [
     fuelType: "Petrol",
     contactLinks: {
        phone: "+918908870213",
-      whatsapp: "+916370182716",
+      whatsapp: "+918980870213",
       email: "info@carrental.com"
     }
   },
@@ -85,7 +85,7 @@ export const cars = [
     fuelType: "Diesel",
     contactLinks: {
       phone: "+918908870213",
-      whatsapp: "+916370182716",
+      whatsapp: "+918980870213",
       email: "info@carrental.com"
     }
   }

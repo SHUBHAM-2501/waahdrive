@@ -15,11 +15,11 @@ const ContactBar = () => {
           <span>WhatsApp: +918908870213</span>
         </a>
         <a
-          href="mailto:email.waahdrive.in"
+          href="mailto:helpdesk@waahdrive.in"
           className="contact-link"
         >
           <FaEnvelope />
-          <span>Email: email.waahdrive.in</span>
+          <span>Email: helpdesk@waahdrive.in</span>
         </a>
         <a
           href="tel:+918908870213"
